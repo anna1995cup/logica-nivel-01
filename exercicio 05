@@ -1,0 +1,18 @@
+#5. Tabela de notas - Você foi contratado por uma escola pra fazer o sistema de boletim dos alunos. Como primeiro passo, escreva um programa que produza a seguinte saída:
+
+#ALUNO(A)          NOTA
+#=========         =====
+#ALINE              9.0  
+#MÁRIO              DEZ
+#SÉRGIO             4.5    
+#SHIRLEY            7.0
+
+print("boletim escolar!")
+print("aluno(A)           NOTA")
+print("ana beatriz         10,0")
+print("aline                9,5")
+print("joão                10,0")
+print("marcelo              8,5")
+print("daiana               7,0")
+print("samuel               5,5")
+
