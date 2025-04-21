@@ -1,0 +1,6 @@
+#Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e escreva a idade dessa pessoa expressa apenas em dias. Considerar ano com 365 dias e mês com 30 dias.
+anos =int(input("quamtos anos vc tem?"))
+meses =int(input("qual foi o mes que vc nasceu?"))
+dias =int(input("qual foi a dia  que voce nasceu?"))
+total = (anos * 365) + (meses * 30) + dias
+print(total)
