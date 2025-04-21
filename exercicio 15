@@ -1,0 +1,10 @@
+#Ler um valor e escrever se é positivo ou negativo (considere o valor zero como positivo). 
+
+#pede um valor ao usúario 
+print("digite um numero")
+valor = float(input()) #usar o float para aceita numeros com virgulas,
+# verifique se e positivo ou negativo
+if valor >= 0:
+    print("O número é positivo.")
+else:
+    print("O número e negativo.")
